@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MarsMan13&fontSize=90" />
 <div/>
 
-<h3 align="center">🛠 Technologies & Tools</h3>
+<h2 align="center">🛠 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/>&nbsp
 </p>
 <br>
-<h3 align="center">🚀 PS</h3>
+<h2 align="center">🚀 PS</h2>
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cds06126" />
 </p>
