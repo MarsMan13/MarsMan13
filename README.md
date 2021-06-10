@@ -24,6 +24,8 @@
 <br>
 <h3 align="center">🚀 PS</h3>
 <p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cds06126" />
+  <a href="https://solved.ac/profile/cds06126" target="_blank" title="solvedac_profile">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cds06126" />
+  </a>
 </p>
 
