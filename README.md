@@ -20,6 +20,7 @@
   <br>
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Pycharm&logoColor=white"/>&nbsp
 </p>
 <br>
 <h3 align="center">🚀 PS</h3>
