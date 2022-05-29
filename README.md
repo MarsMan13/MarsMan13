@@ -17,10 +17,11 @@
   <img src="https://img.shields.io/badge/Djagno-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Pycharm&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp
 </p>
 <br>
 <h3 align="center">🚀 PS</h3>
